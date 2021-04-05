@@ -1,0 +1,3 @@
+To use Notification
+1. Make Function for notification adn implement it
+2. next make pendingIntent and notification content
